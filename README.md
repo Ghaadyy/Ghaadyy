@@ -1,10 +1,9 @@
 ### Hi there, I'm Ghady 👋
 
 Just a software enthusiast. <br/>
-Currently studying computer science. Also, I enjoy having a deep dive in theoretical and practical CS concepts. <br/>
-I work on fullstack projects using React, TypeScript, ASP.NET and MongoDB.
+Currently studying computer science. My work focuses on learning concepts in the fields of Compilers, Operating Systems, Data Structures and Algorithms.
+I also have relevant experience in developping software using modern technologies like React, PostgreSQL, MongoDB and others.
 
 ### Check out my work 👨🏼‍💻
 
-- You can check out my work on my [website](https://www.ghady.me).
-- Or take a look at my [LinkedIn page](https://www.linkedin.com/in/ghadyyoussef/).
+Take a look at my [LinkedIn page](https://www.linkedin.com/in/ghadyyoussef/).
